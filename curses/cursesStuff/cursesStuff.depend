@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647149705 source:c:\users\danec\desktop\csc 60\curses\cursesstuff\testcurse.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
